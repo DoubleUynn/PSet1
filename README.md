@@ -24,6 +24,7 @@ Now, before we can execute the hello.c program, recall that we must compile it w
 And then execute this one:
 
 > ls
+
 (short for list)
 This time, you should see not only hello.c but hello listed as well? You’ve now translated the source code in hello.c into machine code in hello.
 Now execute the program itself by executing the below.
