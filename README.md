@@ -44,3 +44,9 @@ And be sure to execute your program, testing it a few times with different input
 
 > ./hello
 
+[Hints](https://cs50.harvard.edu/ap/2024/curriculum/x/psets/1/hello/#hints) available
+Adapted from: https://cs50.harvard.edu/ap/2024/curriculum/x/psets/1/hello/
+***
+## Mario - Less Comfortable
+
+
